@@ -1,6 +1,6 @@
 {
-  "name": "Metaplex NFT Marketplace",
-  "short_name": "Metaplex NFT Marketplace",
+  "name": "Solcapo NFTs Marketplace",
+  "short_name": "Solcapo NFTs Marketplace",
   "display": "standalone",
   "start_url": "./",
   "theme_color": "#002140",
