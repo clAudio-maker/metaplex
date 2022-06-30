@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://metaplex.com">
-    <img alt="Metaplex/Solcapo" src="js/packages/web/public/Solcapo-Logo-Background.png" style="background: black; padding: 10px" width="250" />
+    <img alt="Metaplex/Solcapo" src="js/packages/web/public/Solcapo-letter2.png" style="background: black; padding: 10px" width="250" />
   </a>
 </p>
 
